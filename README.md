@@ -1,2 +1,2 @@
 # Finns-test-site
-A site I have been playing around with various features on.
+A site that I have developed for a YouTrain module.
